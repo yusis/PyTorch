@@ -37,6 +37,8 @@ PATH = D:\Anaconda3\Scripts;%PATH%
 圖像
 convolution 卷积
 http://jeanvitor.com/convolution-parallel-algorithm-python/
+https://ithelp.ithome.com.tw/articles/10187424
+
 
 
 
