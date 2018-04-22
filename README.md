@@ -17,9 +17,19 @@ pytorch-cpu-0.3.1-py36_cpuhe774522_2
 
 安裝路徑
 Anaconda_3\pkgs\pytorch-cpu-0.3.1-py36_cpuhe774522_2  # Anaconda_3 是特別路徑
-
 Anaconda_3\pkgs 下有許多安裝套件
 
+測試程式碼放在
+D:\2018data-andy\pytorch
+
+Jupyter路徑
+D:\Anaconda_3\Scripts\jupyter.exe
+
+設定路徑
+echo %PATH%
+
+加入到PATH
+PATH = D:\Anaconda_3\Scripts;%PATH%
 
 
 
